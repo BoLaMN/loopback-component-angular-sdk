@@ -1,0 +1,23 @@
+{
+  "name": "loopback-component-angular-sdk",
+  "version": "1.0.0",
+  "description": "loopback api mountable component",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoLaMN/loopback-component-angular-sdk.git"
+  },
+  "author": "Nathan Bolam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BoLaMN/loopback-component-angular-sdk/issues"
+  },
+  "homepage": "https://github.com/BoLaMN/loopback-component-angular-sdk#readme",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "loopback-angular-sdk": "^1.0.0"
+  }
+}
